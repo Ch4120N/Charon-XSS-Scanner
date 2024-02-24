@@ -8,10 +8,7 @@ A Powerfull XSS (Cross-Site Scripting) Scanner -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
-  
-  <img src="https://img.shields.io/github/watchers/Ch4120N/Charon-XSS-Scanner?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/license/Ch4120N/Charon-XSS-Scanner?style=for-the-badge&color=blue">
-<img src="https://img.shields.io/badge/Written In-Python 3-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Written In-Python 3-blue?style=for-the-badge">
 </p>
 
 ## Project Programmer
@@ -25,6 +22,7 @@ A Powerfull XSS (Cross-Site Scripting) Scanner -->
 
 ## ⚓ Requires
 > Python3
+> 
 > pip install -r requirements.txt
 
 ## ⚙️ Installation
