@@ -4,12 +4,12 @@
 
 <!-- ## Charon XSS Scanner
 A Powerfull XSS (Cross-Site Scripting) Scanner -->
-<h1 align="center">Charon XSS Scanner</h1>
+## Charon XSS Scanner
 
-<p align="center">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Written In-Python 3-blue?style=for-the-badge">
-</p>
+</p> -->
 
 ## Project Programmer
 > Ch4120N - Ch4120ni@Gmail.com
