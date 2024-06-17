@@ -12,7 +12,7 @@ A Powerfull XSS (Cross-Site Scripting) Scanner -->
 </p> -->
 
 ## Project Programmer
-> Ch4120N - Ch4120ni@Gmail.com
+> Ch4120N - Ch4120ni@Gmail.com 
 
 ## Made For
 > Finding XSS Vulnerabilities In WebSites By Crawling.
