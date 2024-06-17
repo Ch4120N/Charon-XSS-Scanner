@@ -79,7 +79,7 @@ python chxsscan.py -d 3 --url http://testphp.vulnweb.com  -pl 6 -m 2
 
 ## 🚨 Reporting Issues
 
-If you are facing a configuration issue or something is not working as you expected to be, please use the **Ch4120ni@Gmail.com**
+If you are facing a configuration issue or something is not working as you expected to be, please use the **Ch4120ni@Gmail.com**/**Charon.Sec.Group@Gmail.com**
 
 ## ⚠️ Legal disclaimer ⚠️
 
