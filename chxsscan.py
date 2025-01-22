@@ -6,7 +6,6 @@
 # Description: This Program Powered By Charon Security Agency                        #
 # Made for: Finding XSS Vulnerabilities In WebSites By Crawling.                     #
 # Programmer: Ch4120n                                                                #
-# Phone Number: +98 9304113043                                                       #
 #                                                                                    #
 # Copyright :                                                                        #
 #                                                                                    #
