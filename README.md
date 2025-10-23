@@ -12,7 +12,7 @@ A Powerfull XSS (Cross-Site Scripting) Scanner -->
 </p> -->
 
 ## Project Programmer
-> Ch4120N - Ch4120ni@Gmail.com 
+> Ch4120N - Ch4120N@Proton.me
 
 ## Made For
 > Finding XSS Vulnerabilities In WebSites By Crawling.
@@ -68,19 +68,36 @@ python chxsscan.py -d 3 --url http://testphp.vulnweb.com  -pl 6 -m 2
 ``` -->
 ## ✨ Features
 
-* Crawling all links on a website ( Crawler Engine )
-* POST and GET forms are supported
-* Many settings that can be customized
-* Advanced error handling
-* Very High Speed
+* **Crawling all links on a website ( Crawler Engine )**
+* **POST and GET forms are supported**
+* **Many settings that can be customized**
+* **Advanced error handling**
+* **Very High Speed**
 
-## ❤️ Donation 
-> bitcoin:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+## ❤️ Support the Project
+If you find this tool useful, consider donating:
+
+| Cryptocurrency | Address                                      |
+| :------------- | :------------------------------------------- |
+| **BTC**        | `bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0` |
+| **ETH**        | `0xfddbd535a4ad28792cbebceee3d6982d774e6d13` |
+| **USDT**       | `3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN`         |
+> 💖 Your support helps keep the project alive and improving!
 
 ## 🚨 Reporting Issues
-
-If you are facing a configuration issue or something is not working as you expected to be, please use the **Ch4120ni@Gmail.com**/**Charon.Sec.Group@Gmail.com**
+> If you encounter bugs, configuration issues, or unexpected behavior, please reach out: 
+📩 Ch4120N@Proton.me
 
 ## ⚠️ Legal disclaimer ⚠️
 
 > Usage of `Charon XSS Scanner` for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+---
+
+<div align="center">
+
+“Turning plain text into ASCII masterpieces — one line at a time.”
+
+**⭐ If you like this project, don’t forget to give it a star!**
+
+</div> 
