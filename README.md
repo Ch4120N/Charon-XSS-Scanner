@@ -96,8 +96,6 @@ If you find this tool useful, consider donating:
 
 <div align="center">
 
-“Turning plain text into ASCII masterpieces — one line at a time.”
-
 **⭐ If you like this project, don’t forget to give it a star!**
 
 </div> 
